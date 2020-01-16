@@ -15,8 +15,8 @@ Release:        23
 Summary:        A small GNU-which replacement
 
 License:        MIT
-URL:            https://github.com/trentm/which
-Source0:        http://trentm.com/downloads/which/%{version}/which-%{version}.zip
+URL:            https://code.google.com/archive/p/which/ 
+Source0:        https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/which/which-1.1.0.zip
 
 BuildArch:      noarch
 BuildRequires:  python2-devel
